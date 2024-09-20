@@ -1,4 +1,4 @@
-# flutter_application_2
+# Laundery X
 
 A new Flutter project.
 
